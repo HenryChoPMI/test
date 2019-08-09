@@ -1,0 +1,33 @@
+[33mcommit 0d19ede8af9557a455420b9c50db58900013116d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Henry <Henry.Cho@paradyme.us>
+Date:   Thu Jul 11 11:06:37 2019 -0400
+
+    Revert "third commit"
+    
+    This reverts commit cc6534fee6ba9969a78ae2a557a152269b23287a.
+
+[33mcommit cd45e5f3d5b2679717f90668c532763b44471670[m
+Author: Henry <Henry.Cho@paradyme.us>
+Date:   Thu Jul 11 11:06:10 2019 -0400
+
+    Revert "first commit"
+    
+    This reverts commit 729e1a917a187c2c2b4ff1c1d310026314684f91.
+
+[33mcommit cc6534fee6ba9969a78ae2a557a152269b23287a[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Henry <Henry.Cho@paradyme.us>
+Date:   Thu Jul 11 10:17:19 2019 -0400
+
+    third commit
+
+[33mcommit 9a1d0ca9cdd7e0ce5933a2bf85314e65ce5698e7[m
+Author: Henry <Henry.Cho@paradyme.us>
+Date:   Thu Jul 11 10:05:05 2019 -0400
+
+    second commit
+
+[33mcommit 729e1a917a187c2c2b4ff1c1d310026314684f91[m
+Author: Henry <Henry.Cho@paradyme.us>
+Date:   Thu Jul 11 10:02:09 2019 -0400
+
+    first commit
